@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Zubair-Hassam/Wk9-ReadMe-Gen/issues"
   },
-  "homepage": "https://github.com/Zubair-Hassam/Wk9-ReadMe-Gen#readme"
+  "homepage": "https://github.com/Zubair-Hassam/Wk9-ReadMe-Gen#readme",
+  "dependencies": {
+    "inquirer": "^9.1.3"
+  }
 }

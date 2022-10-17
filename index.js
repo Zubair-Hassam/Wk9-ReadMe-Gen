@@ -1,11 +1,12 @@
-const inquirer = require('./markdown');
+const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
 const writeFileAsync = util.promisify(fs.writeFile);
 
 function promptUser() {
     
-    return inquirer.promptUser ([
+    return inquirer
+    .prompt([
         {
             type: "input",
             name: "project_title",

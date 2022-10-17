@@ -1,0 +1,19 @@
+{
+  "name": "wk9-readme-gen",
+  "version": "1.0.0",
+  "description": "package json file for the readme generator index file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-gen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zubair-Hassam/Wk9-ReadMe-Gen.git"
+  },
+  "author": "Zubair Hassam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zubair-Hassam/Wk9-ReadMe-Gen/issues"
+  },
+  "homepage": "https://github.com/Zubair-Hassam/Wk9-ReadMe-Gen#readme"
+}

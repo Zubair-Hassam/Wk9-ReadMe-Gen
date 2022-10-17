@@ -27,4 +27,4 @@ THEN I am taken to the corresponding section of the README
 
 # Deployed Links
 [GitHub Website](https://github.com/Zubair-Hassam/Wk9-ReadMe-Gen).
-[Deployed Website URL](https://www.youtube.com/watch?v=MhGs69R6lSg)
+[Tutorial Video](https://www.youtube.com/watch?v=MhGs69R6lSg)
